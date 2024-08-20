@@ -1,0 +1,10 @@
+{
+  "name": "minimal-vcpkg-example",
+  "version-string": "0.1.0",
+  "builtin-baseline": "6f29f12e82a8293156836ad81cc9bf5af41fe836",
+  "dependencies": [
+    "boost-filesystem",
+    "boost-multiprecision",
+    "boost-test"
+  ]
+}
